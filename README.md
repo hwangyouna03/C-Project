@@ -14,9 +14,9 @@
     </li>
   </ul>
   
-  # 프로그램 이미지
+  ## 프로그램 이미지
   <div>
-    <img src="https://user-images.githubusercontent.com/57125986/113389174-82ad3b80-93ca-11eb-84c2-957c4193f018.png" width="300" height="200"></img>
+    <img src="https://user-images.githubusercontent.com/57125986/113389174-82ad3b80-93ca-11eb-84c2-957c4193f018.png" width="350" height="200"></img>
  <img src="https://user-images.githubusercontent.com/57125986/113389175-83de6880-93ca-11eb-9d41-4f502e551ab9.png" width="280"></img>
   </div>
  
