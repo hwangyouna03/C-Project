@@ -13,5 +13,10 @@
     기타 설명: 상속 및 파일 입출력을 이용해 구현하여 cmd창으로 출력
     </li>
   </ul>
- ![screenshot1](https://user-images.githubusercontent.com/57125986/113389174-82ad3b80-93ca-11eb-84c2-957c4193f018.png)
- ![screenshot2](https://user-images.githubusercontent.com/57125986/113389175-83de6880-93ca-11eb-9d41-4f502e551ab9.png)
+  
+  # 프로그램 이미지
+  <div>
+    <img src="https://user-images.githubusercontent.com/57125986/113389174-82ad3b80-93ca-11eb-84c2-957c4193f018.png" width="280"></img>
+ <img src="https://user-images.githubusercontent.com/57125986/113389175-83de6880-93ca-11eb-9d41-4f502e551ab9.png" width="280"></img>
+  </div>
+ 
